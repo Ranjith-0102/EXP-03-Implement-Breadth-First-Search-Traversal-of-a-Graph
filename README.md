@@ -1,5 +1,5 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
-<h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
+Breadth First Search Traversal of a Graph
 <h3>Name: RANJITH KUMAR A </h3>
 <h3>Register Number: 212224060210 </h3>
 
